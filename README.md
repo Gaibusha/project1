@@ -23,3 +23,6 @@
 ## health bot
 ![Screenshot (16)](https://user-images.githubusercontent.com/112068786/214892690-6bae366f-7315-4944-84c6-697edbfee5cb.png)
 
+## deployment in azure
+![Screenshot (17)](https://user-images.githubusercontent.com/112068786/214900396-3194c040-3f82-41a0-a31a-47b4253b4ba8.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/112068786/214900428-ce68f679-d513-4336-934b-c89ed0876422.png)
