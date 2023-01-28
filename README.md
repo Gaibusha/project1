@@ -3,7 +3,7 @@
 ## project link :- https://gaibusha.github.io/project1/
 ## project demo vedio link :-
 ## azure technologies used for project
-- static web apss
+- static web apps
 - health bot
 ## screenshots
 ## home page
